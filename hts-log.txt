@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Aug 2019 16:00:38 at https://jayshanmis.github.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jayshanmis.github.io/ -O1 "C:\My Web Sites\SIGBPS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:00:54	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/2018.sigbps.org (from https://jayshanmis.github.io/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/Best_Paper/2018.sigbps.org (from https://jayshanmis.github.io/Best_Paper/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/Gallery/2018.sigbps.org (from https://jayshanmis.github.io/Gallery/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/call-for-papers/2018.sigbps.org (from https://jayshanmis.github.io/call-for-papers/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/organizing_committees/2018.sigbps.org (from https://jayshanmis.github.io/organizing_committees/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/program_committees/2018.sigbps.org (from https://jayshanmis.github.io/program_committees/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/keynotes/2018.sigbps.org (from https://jayshanmis.github.io/keynotes/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/discussion_panel/2018.sigbps.org (from https://jayshanmis.github.io/discussion_panel/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/program/2018.sigbps.org (from https://jayshanmis.github.io/program/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/submission/2018.sigbps.org (from https://jayshanmis.github.io/submission/)
+16:01:03	Error: 	"Not Found" (404) at link https://jayshanmis.github.io/registration/2018.sigbps.org (from https://jayshanmis.github.io/registration/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 68 links scanned, 56 files written (9770253 bytes overall) [9587552 bytes received at 383502 bytes/sec], 635650 bytes transferred using HTTP compression in 29 files, ratio 46%, 11.1 requests per connection
+(11 errors, 0 warnings, 0 messages)
